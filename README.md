@@ -2,12 +2,12 @@
 
 I'm Lautaro, welcome to my profile!
 
-I'm a Devops Engineer currently working at [@tarmac.io](https://github.com/tarmac).
+I'm a Devops Engineer / SRE based in Argentina.
 
 
 ## Skills
 
-- +4 years of experience in the industry. Started as a sysadmin, and then shifted to cloud focused services.
+- +7 years of experience in the industry. Started as a sysadmin, and then shifted to cloud focused services.
 - Eager Learner. I am driven by the need to understand how things work.
 - Firmly believe that the best asset of a company is the people that composes it. I really like working with peers to achieve big things and also sharing knowledge and experience. 
 - Knowledge in: GCP (PCA & PCSE Certified), AWS (SAA certified), Docker, etc (For more technical skills please refer to CV).
